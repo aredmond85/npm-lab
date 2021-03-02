@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "name": "npm-lab",
+  "description": "## Overview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredmond85/npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aredmond85/npm-lab/issues"
+  },
+  "homepage": "https://github.com/aredmond85/npm-lab#readme"
+}
